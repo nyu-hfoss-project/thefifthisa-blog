@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Isabelle Lavandero
 
 # CUSTOMIZE
 # Short bio or description (displayed in the header)
-description: HFOSS project blog
+description: Weekly Updates from HFOSS Independent Study (Fall 2018)
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic
 # or any other image that you like )
-avatar: https://avatars0.githubusercontent.com/u/43258537?s=200&v=4
+avatar: https://avatars3.githubusercontent.com/u/30595954?s=460&v=4
 
 # CUSTOMIZE
 #
@@ -22,14 +22,14 @@ avatar: https://avatars0.githubusercontent.com/u/43258537?s=200&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: isabelle@nyu.edu
   facebook:
   flickr:
-  github: # your github account name, example joannakl
+  github: thefifthisa # your github account name, example joannakl
   instagram:
   linkedin:
   pinterest:
-  twitter:
+  twitter: _thefifthisa
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -38,12 +38,12 @@ footer-links:
 # Your blog URL (e.g. https://nyu-hfoss-project.github.io/blog )
 # Replace the last part by the name of your own repository.
 # It should be "/YOUR_ID-blog".
-url: "https://nyu-hfoss-project.github.io/blog"
+url: "https://nyu-hfoss-project.github.io/thefifthisa-blog"
 
 # CUSTOMIZE
 # Replace "/blog" by the name of your own repository.
 # ex.,  "/YOUR_ID-blog"
-baseurl: "/blog"
+baseurl: "/thefifthisa-blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!

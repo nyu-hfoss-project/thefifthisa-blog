@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Hello world! 👋🌏
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm Isabelle Lavandero, a software developer and a Computer Science student at NYU. This blog tracks my weekly updates for an independent study on Humanitarian Free and Open Source Software (HFOSS) during the Fall 2018 semester.
