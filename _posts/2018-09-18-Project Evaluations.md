@@ -3,7 +3,7 @@ layout: post
 title: Project Evaluations
 ---
 
-# [Astropy](http://www.astropy.org) (under [OpenAstronomy](https://openastronomy.org))
+## [Astropy](http://www.astropy.org) (under [OpenAstronomy](https://openastronomy.org))
 ### Python library with common tools needed to perform astronomy and astrophysics
 
 | Evaluation Factor          | Level (0-2)  | Evaluation Data / Comments |
@@ -19,7 +19,7 @@ title: Project Evaluations
 | __User Base__              | 2 | [Used by other libraries and projects](https://libraries.io/pypi/astropy)
 | __Total Score__            | 18 |
 
-# [Open States](https://openstates.org/)
+## [Open States](https://openstates.org/)
 ### Python scrapers that make raw data about state legistlative activities available as a JSON API
 
 | Evaluation Factor          | Level (0-2)  | Evaluation Data / Comments |
@@ -35,7 +35,7 @@ title: Project Evaluations
 | __User Base__              | 1 |
 | __Total Score__            | 15 |
 
-# [Open Food Facts](https://world.openfoodfacts.org/)
+## [Open Food Facts](https://world.openfoodfacts.org/)
 ### Collaborative database of food products
 
 | Evaluation Factor          | Level (0-2)  | Evaluation Data / Comments |
@@ -51,7 +51,7 @@ title: Project Evaluations
 | __User Base__              | 2 | Over 1,000 users on [Google Play](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
 | __Total Score__            | 13 |
 
-# [ODK Collect](https://docs.opendatakit.org/collect-intro/) (under [Open Data Kit](https://opendatakit.org))
+## [ODK Collect](https://docs.opendatakit.org/collect-intro/) (under [Open Data Kit](https://opendatakit.org))
 ### Android app for filling out surveys, designed to work without network connectivity
 
 | Evaluation Factor          | Level (0-2)  | Evaluation Data / Comments |
@@ -67,7 +67,7 @@ title: Project Evaluations
 | __User Base__              | 2 |
 | __Total Score__            | 18 |
 
-# [LanguageTool](https://languagetool.org/)
+## [LanguageTool](https://languagetool.org/)
 ### Spelling and grammar checker
 
 | Evaluation Factor          | Level (0-2)  | Evaluation Data / Comments |
