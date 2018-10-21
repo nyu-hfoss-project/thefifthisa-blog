@@ -1,0 +1,6 @@
+---
+layout: post
+title: Completing Hacktoberfest 🎉
+---
+
+I completed the Hacktoberfest challenge over the weekend! I did a [quick fix](https://github.com/BUGS-NYU/bugs-nyu.github.io/pull/58) for the README file of the BUGS website after Joanna mentioned it was an open issue in our last meeting. I also submitted two PRs to one of our chosen projects, [OpenStreetMap's iD editor](https://github.com/openstreetmap/iD). The [first](https://github.com/openstreetmap/iD/pull/5418) was a simple addition of a JSON field which got merged within an hour (!!). The [second](https://github.com/openstreetmap/iD/pull/5422) involved styling map components so it was a little more complicated. I really appreciated that one of the lead developers replied quickly when I asked to work on the issue and [advised me on where to start](https://github.com/openstreetmap/iD/issues/5419#issuecomment-431635341). I thought the problem was with the CSS at first, but after a bit of digging (thank you `git grep`), I realized I needed to add some JavaScript to ensure elements were being tagged with the correct styling. Overall, I'm glad I got to learn about and start contributing to some cool open source projects this month! Also can't wait for the shirt to come in the mail 😅
